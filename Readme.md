@@ -1,10 +1,12 @@
 #⚠️ Notice
 
-The current instructions for running this bot in this README is incorrect(databease setup is not mentioned).
+This repository is **broken** and **outdated**, 
+please use https://github.com/siakinnik/UntisTelegramBotV2
 
-This project is archived and is not intended for production use at the moment. It will be unarchived when an update is made that brings it to a production-ready state.
 # UntisBot
-UntisBot is a multiple language(Russian, English, German) Telegram bot designed to help you stay updated with your school Timelible. It provides various features to ensure you never miss an important update like checking every hour timetable for two days ahead and notifing you if there is new canceled or substituted classes.
+
+UntisBot is a multiple language(Russian, English, German) Telegram bot designed to help you stay updated with your school Timelible. It provides various features to ensure you never miss an important update like checking every hour timetable for two days ahead and notifing you if there is new canceled or substituted classes.'
+
 ## Features
 
 - **Timetable**: Get your daily timetable directly in Telegram.
